@@ -1,0 +1,11 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\bin\Debug\WinTimer.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\bin\Debug\WinTimer.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\bin\Debug\WinTimer.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\obj\Debug\WinTimer.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\obj\Debug\WinTimer.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\obj\Debug\WinTimer.UserControlTimer.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\obj\Debug\WinTimer.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\obj\Debug\WinTimer.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\obj\Debug\WinTimer.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\obj\Debug\WinTimer.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\1\WinTimer\WinTimer\obj\Debug\WinTimer.Form1.resources
