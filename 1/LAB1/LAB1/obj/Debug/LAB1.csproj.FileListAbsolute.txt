@@ -1,0 +1,10 @@
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\bin\Debug\LAB1.exe.config
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\bin\Debug\LAB1.exe
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\bin\Debug\LAB1.pdb
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\obj\Debug\LAB1.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\obj\Debug\LAB1.Form1.resources
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\obj\Debug\LAB1.Properties.Resources.resources
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\obj\Debug\LAB1.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\obj\Debug\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\obj\Debug\LAB1.exe
+C:\Users\Анна\Desktop\Обучение\Практика WinC#\ДЗ\1\LAB1\LAB1\obj\Debug\LAB1.pdb
