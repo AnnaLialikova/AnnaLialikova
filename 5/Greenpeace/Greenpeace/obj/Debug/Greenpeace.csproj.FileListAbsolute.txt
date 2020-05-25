@@ -1,0 +1,11 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\bin\Debug\Greenpeace.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\bin\Debug\Greenpeace.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\bin\Debug\Greenpeace.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\obj\Debug\Greenpeace.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\obj\Debug\Greenpeace.Form2Start.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\obj\Debug\Greenpeace.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\obj\Debug\Greenpeace.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\obj\Debug\Greenpeace.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\obj\Debug\Greenpeace.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\obj\Debug\Greenpeace.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\Greenpeace\Greenpeace\obj\Debug\Greenpeace.Form1.resources

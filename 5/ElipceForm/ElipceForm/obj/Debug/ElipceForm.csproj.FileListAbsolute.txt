@@ -1,0 +1,10 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\bin\Debug\ElipceForm.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\bin\Debug\ElipceForm.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\bin\Debug\ElipceForm.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\obj\Debug\ElipceForm.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\obj\Debug\ElipceForm.Form1.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\obj\Debug\ElipceForm.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\obj\Debug\ElipceForm.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\obj\Debug\ElipceForm.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\obj\Debug\ElipceForm.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5\ElipceForm\ElipceForm\obj\Debug\ElipceForm.pdb
