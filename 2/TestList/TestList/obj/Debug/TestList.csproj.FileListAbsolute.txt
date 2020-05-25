@@ -1,0 +1,10 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\bin\Debug\TestList.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\bin\Debug\TestList.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\bin\Debug\TestList.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\obj\Debug\TestList.Form.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\obj\Debug\TestList.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\ЭУ\2\TestList\TestList\obj\Debug\TestList.pdb
