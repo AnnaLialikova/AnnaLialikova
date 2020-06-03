@@ -1,0 +1,11 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\bin\Debug\OwnerUse.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\bin\Debug\OwnerUse.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\bin\Debug\OwnerUse.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\obj\Debug\OwnerUse.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\obj\Debug\OwnerUse.Form1.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\obj\Debug\OwnerUse.Form2.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\obj\Debug\OwnerUse.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\obj\Debug\OwnerUse.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\obj\Debug\OwnerUse.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\obj\Debug\OwnerUse.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\4\OwnerUse\OwnerUse\obj\Debug\OwnerUse.pdb
