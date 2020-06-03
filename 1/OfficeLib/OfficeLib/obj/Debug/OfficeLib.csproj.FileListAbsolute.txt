@@ -1,0 +1,11 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\bin\Debug\OfficeLib.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\bin\Debug\OfficeLib.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\bin\Debug\OfficeLib.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\obj\Debug\OfficeLib.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\obj\Debug\OfficeLib.csproj.ResolveComReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\obj\Debug\OfficeLib.Form1.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\obj\Debug\OfficeLib.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\obj\Debug\OfficeLib.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\obj\Debug\OfficeLib.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\obj\Debug\OfficeLib.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\1\OfficeLib\OfficeLib\obj\Debug\OfficeLib.pdb
