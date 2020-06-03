@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\bin\Debug\PDFReader.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\bin\Debug\PDFReader.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\bin\Debug\PDFReader.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\PDFReader.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\PDFReader.csproj.ResolveComReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\PDFReader.Form1.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\PDFReader.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\PDFReader.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\PDFReader.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\PDFReader.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\5. Взаимодействие управляемого и неуправляемого кода\2\PDFReader\PDFReader\obj\Debug\PDFReader.pdb
