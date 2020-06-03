@@ -1,0 +1,10 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\bin\Debug\Balls.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\bin\Debug\Balls.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\bin\Debug\Balls.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\obj\Debug\Balls.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\obj\Debug\Balls.Form1.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\obj\Debug\Balls.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\obj\Debug\Balls.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\obj\Debug\Balls.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\obj\Debug\Balls.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\6. Графика и анимация в формах\2\Balls\Balls\obj\Debug\Balls.pdb
