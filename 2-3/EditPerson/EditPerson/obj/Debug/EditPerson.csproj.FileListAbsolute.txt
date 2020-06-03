@@ -1,0 +1,11 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\obj\Debug\EditPerson.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\obj\Debug\EditPerson.Form1.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\obj\Debug\EditPerson.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\4. Использование окон диалога\2\EditPerson\EditPerson\obj\Debug\EditPerson.pdb
