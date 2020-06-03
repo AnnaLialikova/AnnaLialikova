@@ -1,0 +1,10 @@
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\obj\Debug\WinButNum.csprojAssemblyReference.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
+C:\Users\Анна\Desktop\Практика WinC#\ДЗ\3. Создание элементов управления\3\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources
